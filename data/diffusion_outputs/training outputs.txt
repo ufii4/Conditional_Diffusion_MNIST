@@ -1,0 +1,29 @@
+loss: 0.0484: 100%|██████████| 235/235 [00:57<00:00,  4.12it/s]
+saved image at ./data/diffusion_outputs/image_ep0_w0.0.png
+saved image at ./data/diffusion_outputs/image_ep0_w0.5.png
+saved image at ./data/diffusion_outputs/image_ep0_w2.0.png
+  0%|          | 0/235 [00:00<?, ?it/s]saved model at ./data/diffusion_outputs/model_0.pth
+epoch 1
+loss: 0.0383: 100%|██████████| 235/235 [00:57<00:00,  4.09it/s]
+saved image at ./data/diffusion_outputs/image_ep1_w0.0.png
+saved image at ./data/diffusion_outputs/image_ep1_w0.5.png
+saved image at ./data/diffusion_outputs/image_ep1_w2.0.png
+saved model at ./data/diffusion_outputs/model_1.pth
+epoch 2
+loss: 0.0344: 100%|██████████| 235/235 [00:57<00:00,  4.08it/s]
+saved image at ./data/diffusion_outputs/image_ep2_w0.0.png
+saved image at ./data/diffusion_outputs/image_ep2_w0.5.png
+saved image at ./data/diffusion_outputs/image_ep2_w2.0.png
+saved model at ./data/diffusion_outputs/model_2.pth
+epoch 3
+loss: 0.0331: 100%|██████████| 235/235 [00:57<00:00,  4.07it/s]
+saved image at ./data/diffusion_outputs/image_ep3_w0.0.png
+saved image at ./data/diffusion_outputs/image_ep3_w0.5.png
+saved image at ./data/diffusion_outputs/image_ep3_w2.0.png
+  0%|          | 0/235 [00:00<?, ?it/s]saved model at ./data/diffusion_outputs/model_3.pth
+epoch 4
+loss: 0.0311: 100%|██████████| 235/235 [00:58<00:00,  4.04it/s]
+saved image at ./data/diffusion_outputs/image_ep4_w0.0.png
+saved image at ./data/diffusion_outputs/image_ep4_w0.5.png
+saved image at ./data/diffusion_outputs/image_ep4_w2.0.png
+saved model at ./data/diffusion_outputs/model_4.pth
